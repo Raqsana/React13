@@ -1,6 +1,8 @@
 function Projects(){
-    return (<div>
+    return (
+    <div>
         <p>I am developing projects using HTML, CSS,JavaScript and React.</p>
-    </div>)
+    </div>
+    )
 }
 export default Projects;
